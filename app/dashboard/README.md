@@ -9,3 +9,6 @@
 
     - Wrap the part that changes in the square brackets. [ ]
         - eg: dashboard/users/[user]
+
+    - Here, encountered an warning.
+        - Had to use async/await because the dynamic apis are asynchronous now.
