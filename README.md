@@ -28,6 +28,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - Focus on learning the routing system in next js.
     - Using the page.tsx.
-    - Nested routing (eg: dashboard/user, dashboard/admin)  
+    - Nested routing (eg: dashboard/user, dashboard/admin)
+
+- Focus on layouts.
+    - Root layout is always required.
+    - You can create additional layouts if necessary.
+
+- How does error handling work in next js.
+    - Error boundaries are client components.
+    - Error will take the neares error.tsx file.
+    - Same as layouts but differes when it comes to which one is going to take the priority.
 
 
