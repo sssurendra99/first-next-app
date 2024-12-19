@@ -39,4 +39,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
     - Error will take the neares error.tsx file.
     - Same as layouts but differes when it comes to which one is going to take the priority.
 
+- Loading also provided in the framework.
+
+- Understand the Server side strategies in the Next Js.
+    - What is Static Site Generation(SSG) - HTML pages are generated build time.(Content is created when deploying.) 
+        - Ideal for blogs, documentation sites etc. where the data is static.
+    - What is Incremental static regeneration(ISR)
+        - Time based revalidation.
+    - What is Server side rendering - 
+
 
